@@ -1,0 +1,56 @@
+[
+  {
+    "recipe_id": "001",
+    "recipe_name": "Chicken Biryani",
+    "short_description": "A flavorful rice dish cooked with marinated chicken and aromatic spices.",
+    "ingredients": ["550 g chicken", "2 cups basmati rice", "120 ml yogurt", "2 onions (sliced)", "4 tomatoes (chopped)", "4 green chilies (slit)", "2 tbsp ginger-garlic paste", "1/2 cup mint leaves", "1/2 cup coriander leaves", "2 tbsp biryani masala", "4 cups water", "Salt to taste"],
+    "preparing_time": "60 minutes",
+    "calories": "400 calories",
+    "img": "https://i.ibb.co/p3qFfJ6/pizza-2068272-1280.jpg"
+  },
+  {
+    "recipe_id": "002",
+    "recipe_name": "Tandoori Chicken",
+    "short_description": "Spiced marinated chicken cooked in a traditional tandoor oven for a smoky flavor.",
+    "ingredients": ["800 g chicken pieces", "1 cup yogurt", "2 tbsp ginger-garlic paste", "2 tbsp tandoori masala", "1 lemon (juiced)", "2 tbsp oil", "Salt to taste"],
+    "preparing_time": "45 minutes",
+    "calories": "350 calories",
+    "img": "https://i.ibb.co/rZn9qsw/kettles-2178442-1280.jpg"
+  },
+  {
+    "recipe_id": "003",
+    "recipe_name": "Beef Bhuna",
+    "short_description": "Tender beef pieces cooked slowly with onions, tomatoes, and aromatic spices for a rich and flavorful dish.",
+    "ingredients": ["500 g beef (cut into cubes)", "2 onions (sliced)", "2 tomatoes (chopped)", "2 tbsp ginger-garlic paste", "1 tsp turmeric powder", "1 tsp chili powder", "1 tsp coriander powder", "1/2 tsp garam masala", "2 tbsp oil", "Salt to taste"],
+    "preparing_time": "50 minutes",
+    "calories": "380 calories",
+    "img": "https://i.ibb.co/cgRFd4m/meat-skewer-1440105-1280.jpg"
+  },
+  {
+    "recipe_id": "004",
+    "recipe_name": "Prawn Malai Curry",
+    "short_description": "Creamy coconut milk-based curry with succulent prawns and aromatic spices.",
+    "ingredients": ["500 g prawns", "1 cup coconut milk", "1 onion (chopped)", "2 tomatoes (chopped)", "2 green chilies (slit)", "1 tsp ginger paste", "1 tsp garlic paste", "1/2 tsp turmeric powder", "1/2 tsp cumin powder", "1/2 tsp coriander powder", "2 tbsp oil", "Salt to taste"],
+    "preparing_time": "40 minutes",
+    "calories": "320 calories",
+    "img": "https://i.ibb.co/L6fMWpx/dough-943245-1280.jpg"
+  },
+  {
+    "recipe_id": "005",
+    "recipe_name": "Fish Bharta",
+    "short_description": "Flaked fish cooked with onions, tomatoes, and spices, mashed and seasoned to perfection.",
+    "ingredients": ["500 g fish fillets (boneless)", "2 onions (sliced)", "2 tomatoes (chopped)", "2 green chilies (slit)", "1 tsp ginger paste", "1 tsp garlic paste", "1/2 tsp turmeric powder", "1/2 tsp chili powder", "1/2 tsp cumin powder", "2 tbsp oil", "Salt to taste"],
+    "preparing_time": "35 minutes",
+    "calories": "300 calories",
+    "img": "https://i.ibb.co/ZSpWJjs/restaurant-1284351-1280.jpg"
+  },
+  {
+    "recipe_id": "006",
+    "recipe_name": "Chingri Malaikari",
+    "short_description": "Jumbo prawns cooked in a creamy coconut milk sauce with aromatic spices, perfect for special occasions.",
+    "ingredients": ["500 g jumbo prawns", "1 cup coconut milk", "2 onions (sliced)", "2 tomatoes (chopped)", "1 tsp ginger paste", "1 tsp garlic paste", "2 green chilies (slit)", "1/2 tsp turmeric powder", "1/2 tsp chili powder", "1/2 tsp garam masala", "2 tbsp oil", "Salt to taste"],
+    "preparing_time": "55 minutes",
+    "calories": "380 calories",
+    "img": "https://i.ibb.co/p3qFfJ6/pizza-2068272-1280.jpg"
+  }
+]
